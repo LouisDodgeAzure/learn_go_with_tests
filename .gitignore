@@ -1,0 +1,18 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# Go build output
+bin/
+build/
+
+# IDE/editor junk
+.vscode/
+.idea/
+*.swp
